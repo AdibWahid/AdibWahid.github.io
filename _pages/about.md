@@ -16,11 +16,13 @@ redirect_from:
 
 🔬 My research interests are in Natural Language Processing, Big Data Analysis and Language Modalities and Semi-Supervised Learning!
 
-💼 I've 3 months worth of experience as a Data Analyst and almost a year worth of experience as an Undergraduate Teaching Assistant.
+💼 I currently work as a Business Analyst at NEXT Ventures, where I contribute to data-driven decision-making and strategic planning.
 
 🏅 Apart from my academic prowess, I also represented my university in many national and international debate tournaments.
 
 # Selected Experience
+## 📊 Business Analyst
+As a **Business Analyst** at [NEXT Ventures](https://nextventures.io/), I analyze trading and market data to drive strategic decisions, conduct R&D on market and fintech trends, and collaborate cross-functionally with product, engineering, compliance, and marketing teams. I also stay continuously updated on industry developments to help the organization adapt and maintain its competitive edge. NEXT Ventures is a global fintech group operating trading platforms like FundedNext and FNMarkets, serving over 220,000 traders in more than 170 countries with a team of 450+ professionals.
 
 ## 👩‍💻 Data Analyst
 I have worked as a **Data Analyst Intern** at [Hydroquo+ Labs](https://bd.linkedin.com/company/hydroquo), located in Banani, Dhaka. During my tenure, I contributed to two government-funded projects. The first was a joint research program with the Water Resources Planning Organisation of Bangladesh (WARPO) on the Surma River Water Level Prediction System. The second was a joint maintenance program of the Saidabad Water Treatment Plant (SWTP) Project with the Dhaka Water Supply and Sewerage Authority (DWASA), which was essential for the residents as SWTP was responsible for providing drinkable water to the entire area.
