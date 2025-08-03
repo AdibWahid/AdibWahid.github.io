@@ -12,11 +12,11 @@ redirect_from:
 
 
 
-👨🏻‍💻 I'm a B.Sc graduate in Computer Science & Engineering from International Islamic University Chittagong.
+👨🏻‍🎓 I'm currently pursuing Master's Degree in Language Technology at the University of Gothenburg. I'm a B.Sc graduate in Computer Science & Engineering from International Islamic University Chittagong.
 
 🔬 My research interests are in Natural Language Processing, Big Data Analysis and Language Modalities and Semi-Supervised Learning!
 
-💼 I currently work as a Business Analyst at NEXT Ventures, where I contribute to data-driven decision-making and strategic planning.
+💼 I've previously worked as a Business Analyst, Data Analyst and hold  almost a year worth of experience as an Undergraduate Teaching Assistant.
 
 🏅 Apart from my academic prowess, I also represented my university in many national and international debate tournaments.
 
